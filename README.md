@@ -1,1 +1,1 @@
-
+A Time-of-Flight (ToF) sensor measures distance by emitting light and calculating the time it takes to reflect off an object and return. This allows for precise, high-speed, non-contact distance measurements. ToF sensors are widely used in applications like gesture control, obstacle detection, and 3D mapping. They work reliably in various lighting conditions and are easy to integrate with microcontrollers. This project includes code examples and setup instructions for using a ToF sensor in embedded systems.
